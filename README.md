@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NinjazGY2497
 - 👀 I’m interested in coding python.
-- 🌱 I’m currently learning PySide6/PyQt
+- 🌱 I’m currently learning CSS and Web Development in general
 - 📫 How to reach me: Coming Soon...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The first form of coding I ever learned was Roblox Scripting.
