@@ -5,7 +5,7 @@ I primarily build projects of three types:
 ## Solely Python
 This category mostly consisted of projects made at home (however not all of them).
 
-📝 Fun fact: - Python is my main language, and it always has been since 2022. It is the language where I really developed most of my coding skills, including functions, OOP, data structures, and GUI development.
+📝 Fun fact: - Python is my main language, and it always has been since 2022. It is the language where I really developed most of my fundamental coding concepts, including functions, OOP, data structures, and GUI development.
 
 ## Full-stack Development
 Most of my hackathon projects are full-stack website projects, consisting of both a frontend and backend (usually without a database). Usually, the frontend is built with HTML, Javascript, and CSS, while my backends are built with Python.
