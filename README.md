@@ -2,12 +2,12 @@
 
 I primarily build projects of three types:
 
-### Solely Python
+## Solely Python
 This category mostly consisted of projects made at home (however not all of them).
 
 📝 Fun fact: - Python is my main language, and it always has been since 2022. It is the language where I really developed most of my coding skills, including functions, OOP, data structures, and GUI development.
 
-### Full-stack Development
+## Full-stack Development
 Most of my hackathon projects are full-stack website projects, consisting of both a frontend and backend (usually without a database). Usually, the frontend is built with HTML, Javascript, and CSS, while my backends are built with Python.
 Instead of utilizing a typical database, my full-stack projects so far use AI integration, incorporated via the Groq API.
 
@@ -15,7 +15,7 @@ Instead of utilizing a typical database, my full-stack projects so far use AI in
 
 📝 I have also worked with a vast range of hackathon group sizes, from practically solo all the way to being part of a group of 5.
 
-### Java Programs (Learning/Mobile/Robotics)
+## Java Programs (Learning/Mobile/Robotics)
 🧠 This is the area of development I am currently (as of the Summer of 2026) working on the most. 
 
 📱 I have committed to mastering the concepts of Java (both in preparation for AP CSA and for self-interest), and then explore the creation of Android mobile apps (and possibly also desktop apps too).
