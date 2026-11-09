@@ -20,7 +20,7 @@ Instead of utilizing a typical database, my full-stack projects so far use AI in
 
 📱 I have committed to mastering the concepts of Java (both in preparation for AP CSA and for self-interest), and then explore the creation of Android mobile apps (and possibly also desktop apps too).
 
-🤖 I also plan to join an FTC robotics team soon, which will heavily utilize Java and Android Studio, as well as teach me more valuable real-world collaboration and communication skills.
+🤖 I also plan to join a robotics class/club/team, which I would be able to contribute my programming skills to, as well enjoy it teaching me more valuable real-world collaboration and communication skills.
 
 <!---
 NinjazGY2497/NinjazGY2497 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
